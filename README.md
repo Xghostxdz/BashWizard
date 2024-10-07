@@ -47,5 +47,5 @@ If you would like to contribute to improving the script, feel free to open issue
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Xghostxdz/BashWizard/blob/main/MIT%20Licence).
  
