@@ -12,14 +12,13 @@ This Bash script is a multi-purpose tool designed for system management, includi
 - **Check DNS:** Query DNS records for specific domains.
 - **Check Ports:** Check the status of open ports on a specified host.
 - **Clean Temporary Files:** Clean temporary files from the system.
-
+   ```
 ## Usage
 
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Xghostxdz/BashWizard
    cd BashWizard
-   ```
 
 2. Give execution permissions to the script:
    ```bash
