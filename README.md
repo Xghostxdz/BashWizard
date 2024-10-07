@@ -1,5 +1,5 @@
 ```markdown
-# Bash Utility Script
+# BashWizard
 
 This Bash script is a multi-purpose tool designed for system management, including package installation, link checking, and network management. It aims to simplify common tasks for users.
 
